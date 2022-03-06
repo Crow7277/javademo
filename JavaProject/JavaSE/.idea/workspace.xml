@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95da6213-9a05-4f0f-8b1f-bc362937929e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../Java/corretto-1.8.0_292/src.zip!/java/io/ObjectOutputStream.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
+  <component name="ProjectId" id="1xd5go2OkySh473W7bAKyaCKCX6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.crow.java2" />
+      <recent name="com.crow.list3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\program\JavaProject\JavaSE\16_Dynamicproxy\src\com\crow\java3" />
+      <recent name="D:\program\JavaProject\JavaSE\12_thread++\src\com\crow\homework1" />
+      <recent name="D:\program\JavaProject\JavaSE\12_thread++\src\com\crow\commu4" />
+      <recent name="D:\program\JavaProject\JavaSE\12_thread++\src\com\crow\lock3" />
+      <recent name="D:\program\JavaProject\JavaSE\12_thread++\src\com\crow\commu3" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.crow.java4" />
+      <recent name="com.crow.homework" />
+      <recent name="com.crow.list3" />
+      <recent name="com.crow.list2" />
+      <recent name="com.crow.pool" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value=";" />
+      <command value="z" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.OptionalTest.test4">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="16_dynamicproxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crow.java5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crow.java5" />
+      <option name="MAIN_CLASS_NAME" value="com.crow.java5.OptionalTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="16_dynamicproxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crow.java5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crow.java5" />
+      <option name="MAIN_CLASS_NAME" value="com.crow.java5.OptionalTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamAPITest2.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="16_dynamicproxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crow.java4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crow.java4" />
+      <option name="MAIN_CLASS_NAME" value="com.crow.java4.StreamAPITest2" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamAPITest2.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="16_dynamicproxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crow.java4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crow.java4" />
+      <option name="MAIN_CLASS_NAME" value="com.crow.java4.StreamAPITest2" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamAPITest2.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="16_dynamicproxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crow.java4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crow.java4" />
+      <option name="MAIN_CLASS_NAME" value="com.crow.java4.StreamAPITest2" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OptionalTest.test4" />
+        <item itemvalue="JUnit.OptionalTest" />
+        <item itemvalue="JUnit.StreamAPITest2.test3" />
+        <item itemvalue="JUnit.StreamAPITest2.test2" />
+        <item itemvalue="JUnit.StreamAPITest2.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95da6213-9a05-4f0f-8b1f-bc362937929e" name="Default Changelist" comment="" />
+      <created>1630672242184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630672242184</updated>
+      <workItem from="1630672243575" duration="2682000" />
+      <workItem from="1630719553864" duration="15970000" />
+      <workItem from="1630826810388" duration="10552000" />
+      <workItem from="1630849618319" duration="835000" />
+      <workItem from="1630893975513" duration="21835000" />
+      <workItem from="1630988180378" duration="15422000" />
+      <workItem from="1631087645888" duration="7074000" />
+      <workItem from="1631240928208" duration="7012000" />
+      <workItem from="1631339581108" duration="8740000" />
+      <workItem from="1631410737787" duration="7896000" />
+      <workItem from="1631762427021" duration="1366000" />
+      <workItem from="1631863355393" duration="3878000" />
+      <workItem from="1631930660019" duration="5167000" />
+      <workItem from="1632033142210" duration="6385000" />
+      <workItem from="1632106030533" duration="2057000" />
+      <workItem from="1632125350312" duration="3793000" />
+      <workItem from="1632465909386" duration="9943000" />
+      <workItem from="1632491079550" duration="132000" />
+      <workItem from="1632491244944" duration="3335000" />
+      <workItem from="1632536707185" duration="4294000" />
+      <workItem from="1632541562505" duration="13855000" />
+      <workItem from="1632638686753" duration="12037000" />
+      <workItem from="1632727457794" duration="11752000" />
+      <workItem from="1632807143031" duration="634000" />
+      <workItem from="1632823072152" duration="4026000" />
+      <workItem from="1632843346056" duration="318000" />
+      <workItem from="1632880474282" duration="4434000" />
+      <workItem from="1632924506430" duration="5303000" />
+      <workItem from="1632980957680" duration="4131000" />
+      <workItem from="1633009344123" duration="43000" />
+      <workItem from="1633239136596" duration="23138000" />
+      <workItem from="1633314917710" duration="22838000" />
+      <workItem from="1633395812757" duration="15814000" />
+      <workItem from="1633591567876" duration="9953000" />
+      <workItem from="1633610337748" duration="6106000" />
+      <workItem from="1633678329687" duration="1456000" />
+      <workItem from="1633686106943" duration="7377000" />
+      <workItem from="1633770841772" duration="762000" />
+      <workItem from="1633836855478" duration="17302000" />
+      <workItem from="1633918173545" duration="2402000" />
+      <workItem from="1633962159652" duration="2625000" />
+      <workItem from="1634037278557" duration="357000" />
+      <workItem from="1634044693984" duration="2999000" />
+      <workItem from="1634093718078" duration="18979000" />
+      <workItem from="1634185085817" duration="18298000" />
+      <workItem from="1634279137000" duration="8171000" />
+      <workItem from="1634350124338" duration="8772000" />
+      <workItem from="1634376333273" duration="6385000" />
+      <workItem from="1634435475753" duration="26802000" />
+      <workItem from="1634649536800" duration="63000" />
+      <workItem from="1638427222864" duration="303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.crow.map.HashMap" memberName="table" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
